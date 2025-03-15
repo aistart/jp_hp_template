@@ -1,0 +1,254 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "company": "Company",
+    "contact": "Contact"
+  },
+  "footer": {
+    "address": "Gran Park Tower 32F, 3-4-1 Shibaura, Minato-ku, Tokyo 108-0023, Japan",
+    "phone": "TEL: +81-3-1234-5678",
+    "fax": "FAX: +81-3-1234-5679",
+    "email": "info@tripleail.com",
+    "copyright": "© 2024 Triple AIL Co., Ltd. All Rights Reserved."
+  },
+  "home": {
+    "welcome": "Welcome to Triple AIL",
+    "description": "We are a leading Japanese company providing advanced technology and innovative solutions.",
+    "learnMore": "Learn More",
+    "latestNews": "Latest News",
+    "viewAll": "View All",
+    "news": {
+      "item1": {
+        "title": "Announcement of New AI Platform Development",
+        "description": "We have started a next-generation AI platform development project."
+      },
+      "item2": {
+        "title": "20% Increase in Annual Sales Achieved",
+        "description": "Our fiscal year 2023 results have been announced, achieving a 20% increase in sales compared to the previous year."
+      },
+      "item3": {
+        "title": "New Office Opened in Osaka",
+        "description": "We have opened a new office in Osaka as part of our business expansion in the Kansai region."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "history": "History",
+    "philosophy": "Philosophy",
+    "vision": "Vision",
+    "organization": "Organization",
+    "mission": "Mission",
+    "values": "Values",
+    "philosophy_items": {
+      "vision": {
+        "title": "Vision",
+        "content": "With the philosophy of 'Contributing to society through cutting-edge technology', we utilize AI and technology to help create a better society. We constantly pursue innovation and continue to provide solutions that enrich people's lives."
+      },
+      "mission": {
+        "title": "Mission",
+        "content": "We provide high-quality systems and AI platforms to support the success of our clients' businesses. Through the power of technology, we solve complex challenges and support the realization of efficient and sustainable businesses."
+      },
+      "values": {
+        "title": "Values",
+        "content": "• Innovation: We constantly pursue new ideas and technologies<br />• Quality: We provide uncompromising quality and service<br />• Integrity: We act with integrity towards all stakeholders<br />• Teamwork: We respect diversity and work together to achieve goals<br />• Continuous Improvement: We constantly learn, improve, and grow"
+      }
+    },
+    "vision_content": {
+      "paragraph1": "Triple AIL upholds the management vision of 'Creating the future with the power of technology.' As a partner in solving complex challenges faced by businesses and society through AI and digital technology, we contribute to the realization of a sustainable future.",
+      "paragraph2": "By 2030, we aim to become a leading company in AI solutions in the Asia-Pacific region, actively investing in innovative technology development and human resource development. We continue to create new value through the fusion of technological advancement and human creativity."
+    },
+    "historyData": [
+      { "year": "September 2008", "description": "Established Triple AIL Co., Ltd." },
+      { "year": "April 2010", "description": "Started development of AI platform 'TripAI'" },
+      { "year": "June 2012", "description": "Relocated Tokyo headquarters to Shibaura, Minato-ku" },
+      { "year": "August 2014", "description": "Established AI Research Institute" },
+      { "year": "May 2016", "description": "Opened Osaka branch office" },
+      { "year": "November 2018", "description": "Expanded overseas, opened Singapore office" },
+      { "year": "March 2020", "description": "Released next-generation AI platform 'TripAI 2.0'" },
+      { "year": "July 2022", "description": "Relocated headquarters to Gran Park Tower" },
+      { "year": "December 2023", "description": "Held 15th anniversary celebration event" }
+    ],
+    "organization_content": {
+      "paragraph1": "Triple AIL aims for a 'flat and creative organization,' adopting a flexible project-based organizational structure rather than a traditional hierarchical organization. This promotes rapid decision-making and innovation creation.",
+      "paragraph2": "Our main departments are as follows:",
+      "departments": [
+        "Research & Development: Research and development of cutting-edge AI technology",
+        "Solutions Division: Development of custom systems for clients",
+        "Platform Division: Development and operation of AI platforms",
+        "Consulting Division: Technical strategy consulting",
+        "Global Business Division: Operation of overseas offices and international projects",
+        "Management Division: Business planning, human resources, financial management"
+      ]
+    }
+  },
+  "services": {
+    "title": "Services",
+    "service1": {
+      "title": "System Integration",
+      "description": "We provide custom system development and integration services to support business efficiency and digital transformation.",
+      "features": {
+        "feature1": "Consistent support from requirements definition to operation and maintenance",
+        "feature2": "Seamless integration with legacy systems",
+        "feature3": "Support for migration to cloud environments",
+        "feature4": "Security-focused design and implementation",
+        "feature5": "Building scalable architectures"
+      }
+    },
+    "service2": {
+      "title": "AI Platform Development",
+      "description": "We develop platforms utilizing cutting-edge AI technology to support corporate decision-making and business process automation.",
+      "features": {
+        "feature1": "Building natural language processing and machine learning models",
+        "feature2": "Data analysis and predictive modeling",
+        "feature3": "Business intelligence solutions",
+        "feature4": "Business automation leveraging AI",
+        "feature5": "Development of custom AI algorithms"
+      }
+    },
+    "service3": {
+      "title": "Technical Consulting",
+      "description": "From digital transformation strategy formulation to implementation, we support business growth from a technical perspective.",
+      "features": {
+        "feature1": "Technology strategy formulation",
+        "feature2": "Project management and risk assessment",
+        "feature3": "System architecture design",
+        "feature4": "Technology stack selection",
+        "feature5": "Security and compliance measures"
+      }
+    },
+    "service4": {
+      "title": "Research & Development",
+      "description": "We actively engage in next-generation technology research and development, aiming to create innovative solutions.",
+      "features": {
+        "feature1": "Quantum computing research",
+        "feature2": "Advanced AI algorithm development",
+        "feature3": "Applied research in blockchain technology",
+        "feature4": "Edge computing solutions",
+        "feature5": "Next-generation security technology development"
+      }
+    },
+    "solutions": {
+      "title": "Industry Solutions",
+      "manufacturing": {
+        "name": "Manufacturing",
+        "description": "Solutions to support efficiency and innovation in manufacturing, including production management systems, quality control, supply chain optimization, and predictive maintenance"
+      },
+      "finance": {
+        "name": "Finance",
+        "description": "AI solutions specialized for solving challenges in the finance industry, including risk analysis, fraud detection, automated trading systems, and customer analysis"
+      },
+      "healthcare": {
+        "name": "Healthcare",
+        "description": "Support for improving quality and efficiency in healthcare, including medical data analysis, diagnostic support systems, patient management, and remote medical platforms"
+      },
+      "retail": {
+        "name": "Retail & E-commerce",
+        "description": "Accelerating digital transformation in retail through demand forecasting, inventory optimization, recommendation engines, and customer behavior analysis"
+      },
+      "automotive": {
+        "name": "Automotive & Transportation",
+        "description": "Solutions shaping the future of mobility, including autonomous driving technology, fleet management, route optimization, and vehicle diagnostic systems"
+      },
+      "smartcity": {
+        "name": "Smart City",
+        "description": "Supporting sustainable urban development through urban infrastructure management, energy efficiency, traffic system optimization, and environmental monitoring"
+      }
+    }
+  },
+  "company": {
+    "title": "Company Information",
+    "overview": "Company Overview",
+    "philosophy_title": "Corporate Philosophy",
+    "message": "CEO Message",
+    "ceo_message": "Message from the CEO",
+    "map": {
+      "title": "Company Location Map"
+    },
+    "info": {
+      "name": {
+        "label": "Company Name",
+        "value": "Techno Innovation Co., Ltd."
+      },
+      "established": {
+        "label": "Established",
+        "value": "April 1, 2005"
+      },
+      "capital": {
+        "label": "Capital",
+        "value": "350 million yen"
+      },
+      "ceo": {
+        "label": "CEO",
+        "value": "Taro Yamada"
+      },
+      "employees": {
+        "label": "Employees",
+        "value": "250 (as of April 2023)"
+      },
+      "business": {
+        "label": "Business",
+        "value": "System Integration, AI Platform Development, Technical Consulting, Research & Development"
+      },
+      "headquarters": {
+        "label": "Headquarters",
+        "value": "Marunouchi Center Building 18F, 1-1-1 Marunouchi, Chiyoda-ku, Tokyo 100-0001, Japan"
+      },
+      "tel": {
+        "label": "TEL",
+        "value": "+81-3-1234-5678"
+      },
+      "fax": {
+        "label": "FAX",
+        "value": "+81-3-1234-5679"
+      },
+      "email": {
+        "label": "E-mail",
+        "value": "info@techno-innovation.co.jp"
+      }
+    },
+    "philosophy": {
+      "main": "Creating a Better Society Through Technology",
+      "description": "We leverage cutting-edge technology to solve social challenges and create new value. Through innovative solutions, we aim to enrich people's lives and contribute to the realization of a sustainable society."
+    },
+    "values": {
+      "innovation": {
+        "title": "Innovation",
+        "description": "We contribute to society by constantly pursuing cutting-edge technology and creating new value."
+      },
+      "trust": {
+        "title": "Trust",
+        "description": "We build relationships based on integrity and transparency, valuing the trust of our customers and society."
+      },
+      "cocreation": {
+        "title": "Co-creation",
+        "description": "We respect diverse perspectives, thinking together and creating together to realize a better future."
+      }
+    },
+    "ceo": {
+      "name": "Taro Yamada",
+      "position": "President & CEO",
+      "message": {
+        "paragraph1": "Thank you for visiting the official website of Techno Innovation. Since our founding in 2005, we have been pursuing cutting-edge technology and working to solve our customers' challenges and create new value under the philosophy of 'Creating a Better Society Through Technology'.",
+        "paragraph2": "With the rapid evolution of digital technology, our society and industries are facing an era of major transformation. Advanced technologies such as AI, cloud computing, and IoT are fundamentally changing how we live and work, and bringing new approaches to social challenges that have been difficult to solve until now.",
+        "paragraph3": "In this era of transformation, we at Techno Innovation consider it our mission to maximize the potential of technology and contribute to our customers' business growth and social development. Our team of highly skilled professionals with extensive experience aims to be a true partner by providing optimal solutions tailored to each customer's unique needs.",
+        "paragraph4": "We will continue to explore new possibilities in technology while treasuring the spirit of innovation, reliability, and co-creation. We sincerely look forward to creating a better future together with all of you."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Submit",
+    "required": "Required",
+    "success": "Your inquiry has been received. We will contact you soon.",
+    "error": "Failed to send. Please try again later."
+  }
+}
