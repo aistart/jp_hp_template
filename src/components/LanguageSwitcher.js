@@ -45,6 +45,12 @@ const LanguageSwitcher = () => {
       >
         English
       </LanguageButton>
+      <LanguageButton 
+        active={i18n.language === 'cn'} 
+        onClick={() => changeLanguage('cn')}
+      >
+        中文
+      </LanguageButton>
     </SwitcherContainer>
   );
 };

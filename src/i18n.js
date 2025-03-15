@@ -3,6 +3,7 @@ import { initReactI18next } from 'react-i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
 import jaTranslation from './locales/ja/translation.json';
 import enTranslation from './locales/en/translation.json';
+import cnTranslation from './locales/cn/translation.json';
 
 i18n
   // 检测用户语言
@@ -23,6 +24,9 @@ i18n
       },
       en: {
         translation: enTranslation
+      },
+      cn: {
+        translation: cnTranslation
       }
     },
     detection: {

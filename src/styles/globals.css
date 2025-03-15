@@ -1,0 +1,12 @@
+:root {
+  --font-family-chinese: "Microsoft YaHei", "微软雅黑", sans-serif;
+}
+
+html {
+  font-family: var(--font-family-chinese);
+}
+
+/* 针对中文内容的元素 */
+.chinese-content {
+  font-family: var(--font-family-chinese);
+} 

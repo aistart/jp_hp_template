@@ -1,0 +1,254 @@
+{
+  "header": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务内容",
+    "company": "公司信息",
+    "contact": "联系我们"
+  },
+  "footer": {
+    "address": "日本东京都港区芝浦三丁目4番1号 Gran Park Tower 32楼 邮编108-0023",
+    "phone": "电话: +81-3-1234-5678",
+    "fax": "传真: +81-3-1234-5679",
+    "email": "info@tripleail.com",
+    "copyright": "© 2024 Triple AIL株式会社 版权所有"
+  },
+  "home": {
+    "welcome": "欢迎来到Triple AIL",
+    "description": "我们是一家提供先进技术和创新解决方案的日本领先企业。",
+    "learnMore": "了解更多",
+    "latestNews": "最新消息",
+    "viewAll": "查看全部",
+    "news": {
+      "item1": {
+        "title": "宣布开发新的AI平台",
+        "description": "我们已启动下一代AI平台开发项目。"
+      },
+      "item2": {
+        "title": "年销售额增长20%",
+        "description": "我们公布了2023财年业绩，销售额比上年增长20%。"
+      },
+      "item3": {
+        "title": "大阪新办公室开业",
+        "description": "作为关西地区业务扩展的一部分，我们在大阪开设了新办公室。"
+      }
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "history": "发展历程",
+    "philosophy": "企业理念",
+    "vision": "经营愿景",
+    "organization": "组织结构",
+    "mission": "使命",
+    "values": "价值观",
+    "philosophy_items": {
+      "vision": {
+        "title": "愿景",
+        "content": "秉持通过尖端技术贡献社会的理念，我们利用AI和技术帮助创建更美好的社会。我们不断追求创新，继续提供丰富人们生活的解决方案。"
+      },
+      "mission": {
+        "title": "使命",
+        "content": "我们提供高质量的系统和AI平台，支持客户业务的成功。通过技术的力量，我们解决复杂挑战，支持实现高效和可持续的业务。"
+      },
+      "values": {
+        "title": "价值观",
+        "content": "• 创新：我们不断追求新的想法和技术<br />• 品质：我们提供无妥协的质量和服务<br />• 诚信：我们对所有利益相关者诚实行事<br />• 团队合作：我们尊重多样性，共同努力实现目标<br />• 持续改进：我们不断学习、改进和成长"
+      }
+    },
+    "vision_content": {
+      "paragraph1": "Triple AIL秉持用技术的力量创造未来的经营愿景。作为通过AI和数字技术解决企业和社会面临的复杂挑战的合作伙伴，我们为实现可持续未来做出贡献。",
+      "paragraph2": "到2030年，我们的目标是成为亚太地区AI解决方案的领先企业，积极投资于创新技术开发和人才培养。我们通过技术进步与人类创造力的融合，不断创造新价值。"
+    },
+    "historyData": [
+      { "year": "2008年9月", "description": "成立Triple AIL株式会社" },
+      { "year": "2010年4月", "description": "开始开发AI平台'TripAI'" },
+      { "year": "2012年6月", "description": "东京总部迁至港区芝浦" },
+      { "year": "2014年8月", "description": "成立AI研究所" },
+      { "year": "2016年5月", "description": "开设大阪分公司" },
+      { "year": "2018年11月", "description": "海外扩张，开设新加坡办事处" },
+      { "year": "2020年3月", "description": "发布下一代AI平台'TripAI 2.0'" },
+      { "year": "2022年7月", "description": "总部迁至Gran Park Tower" },
+      { "year": "2023年12月", "description": "举办15周年庆典活动" }
+    ],
+    "organization_content": {
+      "paragraph1": "Triple AIL致力于建立扁平化和创新型组织，采用基于项目的灵活组织结构，而非传统的层级组织。这促进了快速决策和创新创造。",
+      "paragraph2": "我们的主要部门如下：",
+      "departments": [
+        "研发部门：尖端AI技术的研究与开发",
+        "解决方案部门：为客户开发定制系统",
+        "平台部门：AI平台的开发和运营",
+        "咨询部门：技术战略咨询",
+        "全球业务部门：海外办事处运营和国际项目",
+        "管理部门：业务规划、人力资源、财务管理"
+      ]
+    }
+  },
+  "services": {
+    "title": "服务内容",
+    "service1": {
+      "title": "系统集成",
+      "description": "我们提供定制系统开发和集成服务，支持业务效率和数字化转型。",
+      "features": {
+        "feature1": "从需求定义到运营维护的一致支持",
+        "feature2": "与传统系统的无缝集成",
+        "feature3": "支持迁移到云环境",
+        "feature4": "以安全为中心的设计和实施",
+        "feature5": "构建可扩展架构"
+      }
+    },
+    "service2": {
+      "title": "AI平台开发",
+      "description": "我们开发利用尖端AI技术的平台，支持企业决策和业务流程自动化。",
+      "features": {
+        "feature1": "构建自然语言处理和机器学习模型",
+        "feature2": "数据分析和预测建模",
+        "feature3": "商业智能解决方案",
+        "feature4": "利用AI的业务自动化",
+        "feature5": "开发定制AI算法"
+      }
+    },
+    "service3": {
+      "title": "技术咨询",
+      "description": "从数字化转型战略制定到实施，我们从技术角度支持业务增长。",
+      "features": {
+        "feature1": "技术战略制定",
+        "feature2": "项目管理和风险评估",
+        "feature3": "系统架构设计",
+        "feature4": "技术栈选择",
+        "feature5": "安全和合规措施"
+      }
+    },
+    "service4": {
+      "title": "研究开发",
+      "description": "我们积极参与下一代技术研究和开发，旨在创造创新解决方案。",
+      "features": {
+        "feature1": "量子计算研究",
+        "feature2": "先进AI算法开发",
+        "feature3": "区块链技术应用研究",
+        "feature4": "边缘计算解决方案",
+        "feature5": "下一代安全技术开发"
+      }
+    },
+    "solutions": {
+      "title": "行业解决方案",
+      "manufacturing": {
+        "name": "制造业",
+        "description": "支持制造业效率和创新的解决方案，包括生产管理系统、质量控制、供应链优化和预测性维护"
+      },
+      "finance": {
+        "name": "金融业",
+        "description": "专门解决金融行业挑战的AI解决方案，包括风险分析、欺诈检测、自动交易系统和客户分析"
+      },
+      "healthcare": {
+        "name": "医疗健康",
+        "description": "支持提高医疗质量和效率，包括医疗数据分析、诊断支持系统、患者管理和远程医疗平台"
+      },
+      "retail": {
+        "name": "零售与电子商务",
+        "description": "通过需求预测、库存优化、推荐引擎和客户行为分析加速零售业数字化转型"
+      },
+      "automotive": {
+        "name": "汽车与交通",
+        "description": "塑造移动出行未来的解决方案，包括自动驾驶技术、车队管理、路线优化和车辆诊断系统"
+      },
+      "smartcity": {
+        "name": "智慧城市",
+        "description": "通过城市基础设施管理、能源效率、交通系统优化和环境监测支持可持续城市发展"
+      }
+    }
+  },
+  "company": {
+    "title": "公司信息",
+    "overview": "公司概况",
+    "philosophy_title": "企业理念",
+    "message": "总裁致辞",
+    "ceo_message": "总裁致辞",
+    "map": {
+      "title": "公司位置地图"
+    },
+    "info": {
+      "name": {
+        "label": "公司名称",
+        "value": "科技创新株式会社"
+      },
+      "established": {
+        "label": "成立时间",
+        "value": "2005年4月1日"
+      },
+      "capital": {
+        "label": "资本金",
+        "value": "3.5亿日元"
+      },
+      "ceo": {
+        "label": "总裁",
+        "value": "山田太郎"
+      },
+      "employees": {
+        "label": "员工人数",
+        "value": "250人（截至2023年4月）"
+      },
+      "business": {
+        "label": "业务内容",
+        "value": "系统集成、AI平台开发、技术咨询、研究开发"
+      },
+      "headquarters": {
+        "label": "总部地址",
+        "value": "日本东京都千代田区丸之内1-1-1 丸之内中心大厦18楼 邮编100-0001"
+      },
+      "tel": {
+        "label": "电话",
+        "value": "03-1234-5678"
+      },
+      "fax": {
+        "label": "传真",
+        "value": "03-1234-5679"
+      },
+      "email": {
+        "label": "电子邮箱",
+        "value": "info@techno-innovation.co.jp"
+      }
+    },
+    "philosophy": {
+      "main": "通过技术创造更美好的社会",
+      "description": "我们利用尖端技术解决社会挑战并创造新价值。通过创新解决方案，我们旨在丰富人们的生活，为实现可持续社会做出贡献。"
+    },
+    "values": {
+      "innovation": {
+        "title": "创新",
+        "description": "我们通过不断追求尖端技术和创造新价值为社会做贡献。"
+      },
+      "trust": {
+        "title": "信任",
+        "description": "我们基于诚信和透明度建立关系，重视客户和社会的信任。"
+      },
+      "cocreation": {
+        "title": "共创",
+        "description": "我们尊重多元观点，共同思考，共同创造，实现更美好的未来。"
+      }
+    },
+    "ceo": {
+      "name": "山田太郎",
+      "position": "总裁兼首席执行官",
+      "message": {
+        "paragraph1": "感谢您访问科技创新的官方网站。自2005年成立以来，我们一直在通过技术创造更美好的社会的理念下，追求尖端技术，致力于解决客户挑战并创造新价值。",
+        "paragraph2": "随着数字技术的快速发展，我们的社会和产业正面临重大转型时代。AI、云计算和物联网等先进技术正从根本上改变我们的生活和工作方式，为解决过去难以解决的社会挑战带来新的方法。",
+        "paragraph3": "在这个转型时代，我们科技创新公司将最大化技术潜力，为客户业务增长和社会发展做贡献作为我们的使命。我们拥有丰富经验的高技能专业团队，通过提供针对每位客户独特需求的最佳解决方案，致力于成为真正的合作伙伴。",
+        "paragraph4": "我们将继续探索技术的新可能性，同时珍视创新、可靠性和共创精神。我们真诚期待与您共同创造更美好的未来。"
+      }
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "name": "姓名",
+    "company": "公司",
+    "email": "电子邮箱",
+    "phone": "电话",
+    "subject": "主题",
+    "message": "留言",
+    "submit": "提交",
+    "required": "必填项",
+    "success": "我们已收到您的咨询。我们的工作人员将与您联系。",
+    "error": "提交失败。请稍后再试。"
+  }
+} 

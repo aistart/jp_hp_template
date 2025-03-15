@@ -84,7 +84,7 @@ const ContactPage = () => {
             </InfoItem>
             
             <InfoItem>
-              <InfoLabel>{t('footer.address')}</InfoLabel>
+              <InfoText>{t('footer.address')}</InfoText>
             </InfoItem>
             
             <InfoItem>
